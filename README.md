@@ -5,7 +5,6 @@
 - [Problem](#Problem)
 - [Screenshots](#Screenshots)
 - [Credits](#Credits)
-- [License](#License)
 
 ## Introduction
 This project is aim to develop a **point-of-sales (POS) system** for a retail shop that can be used to generate the invoice or receipt of a transaction
