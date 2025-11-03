@@ -2,8 +2,7 @@
 
 ## Table of Contents
 - [Introduction](#Introduction)
-- [Problem](#Problem)
-- [Screenshots](#Screenshots)
+- [Objective](#Objective)
 - [Credits](#Credits)
 
 ## Introduction
@@ -26,28 +25,6 @@ This project is aim to develop a **point-of-sales (POS) system** for a retail sh
 4. **Inventory Module**
     - Upkeep of the inventory level
     - Request for items to be added when stock level falls under the safety stock level
-      
-## Screenshots
-### Main Menu
-![image](https://github.com/user-attachments/assets/ce99f139-cf7a-41e5-89bc-e99486a62159)
-
-### Item Maintenance 
-![image](https://github.com/user-attachments/assets/ed83d7aa-e5b2-45c1-a957-6fa6e04adcf6)
-
-### Stock Management 
-![image](https://github.com/user-attachments/assets/527982c3-dfa6-4b6d-b5e0-77639ef963da)
-
-### Membership Maintenance 
-![image](https://github.com/user-attachments/assets/6a726564-0a68-4271-9cb8-4869e21c0623)
-![image](https://github.com/user-attachments/assets/5ae0a724-df2e-44e8-8b4c-27a25c6ffc59)
-
-### Sales
-![image](https://github.com/user-attachments/assets/bdc8b9d4-15f5-4908-b84d-d3592568d94b)
-
-### Report
-![image](https://github.com/user-attachments/assets/0133e9d2-8048-4f2a-8350-100aae94b8ab)
-![image](https://github.com/user-attachments/assets/c2288381-b397-4f1f-9a48-4d315f0f3b7f)
-![image](https://github.com/user-attachments/assets/7c365a5f-b070-4ae8-b14c-f601055ecee9)
 
 ## Credits
 This Project is developed by:
