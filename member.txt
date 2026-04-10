@@ -1,0 +1,8 @@
+CAROLYN LAW|Normal|eWallet
+CINDY CHEONG LI QING|Premium|Credit Card
+LAW YI QING|Gold|Credit Card
+LING QI MING|Normal|Cash
+LEONG LI LING|Gold|Credit Card
+CHEONG YAN YOONG|Premium|Cash
+LOW QING YI|Premium|eWallet
+LEE TING SEE|Premium|Cash
