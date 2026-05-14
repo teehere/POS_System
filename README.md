@@ -1,4 +1,5 @@
 # Point Of Sales System (POS)
+[LiveDemo](https://youtu.be/qssYV3Tnn2s)
 
 ## Introduction
 This project is aim to develop a **point-of-sales (POS) system** for a retail shop that can be used to generate the invoice or receipt of a transaction
